@@ -8,6 +8,8 @@ This app allows users to answer multiple-choice questions, track their progress,
 ## 📸 Screenshot
 
 ![React Quiz App Screenshot](./Screenshot.png)
+![React Quiz App Screenshot](./Screenshot1.png)
+![React Quiz App Screenshot](./Screenshot2.png)
 
 ---
 
